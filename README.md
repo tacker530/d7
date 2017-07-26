@@ -1,2 +1,2 @@
 # d7
-discover 7
+We will discover 7th ...
